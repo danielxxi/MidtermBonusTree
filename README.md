@@ -27,7 +27,7 @@ Hallazgos
 
     Si el análisis de los destinos se hace por cantidad de vuelos, los destinos se observa que Miami, New York, Madrid y Lima lideran la lista en cuanto a cantidad de vuelos. Desde Sao Paulo se observa que Colombia es un destino frecuente, tal vez puede ser por aspectos inherentes a turismo-negocios, o tal vez que Colombia sea utilizado como escala para otros destinos.
 
-    En cuanto a vuelos nacionales - domésticos, por cantidasd de vuelos, la ruta Villavicencio-Puerto Carreño es protagonista frecuente de las listas. Tal vez es utilizado como puente a los Llanos orientales, o tal vez es "jalonado" por la industria petrolera, con amplia frecuencia en el sector. Sin embargo, si el análisis se hace por cantidad de pasajeros transportados, observamos que las rutas más sobresalientes en este ítem son aquellas que salen de Bogotá y se dirigen hacia ciudades turísticas por excelencia, como San Andrés, Cali, Medellín y Cartagena
+    En cuanto a vuelos nacionales - domésticos, por cantidad de vuelos, la ruta Villavicencio-Puerto Carreño es protagonista frecuente de las listas. Tal vez es utilizado como puente a los Llanos orientales, o tal vez es "jalonado" por la industria petrolera, con amplia frecuencia en el sector. Sin embargo, si el análisis se hace por cantidad de pasajeros transportados, observamos que las rutas más sobresalientes en este ítem son aquellas que salen de Bogotá y se dirigen hacia ciudades turísticas por excelencia, como San Andrés, Cali, Medellín y Cartagena
     
 Los tipo de gráficos son una adaptación de ejemplos de Mike Bostock's.
 
